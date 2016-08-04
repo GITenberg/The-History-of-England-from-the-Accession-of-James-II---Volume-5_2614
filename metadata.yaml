@@ -1,0 +1,30 @@
+_repo: The-History-of-England-from-the-Accession-of-James-II---Volume-5_2614
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Macaulay, Thomas Babington Macaulay, Baron
+    aliases:
+    - Macaulay, T. Babington (Thomas Babington)
+    - Macaulay, Lord (Thomas Babington Macaulay)
+    birthdate: 1800
+    deathdate: 1859
+    gutenberg_agent_id: '443'
+    url: http://www.gutenberg.org/2009/agents/443
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Babington_Macaulay,_1st_Baron_Macaulay
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2008-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- James II, 1685-1688'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- William and Mary, 1689-1702'
+- GITenberg
+title: The History of England, from the Accession of James II — Volume 5
+url: http://www.gutenberg.org/ebooks/2614

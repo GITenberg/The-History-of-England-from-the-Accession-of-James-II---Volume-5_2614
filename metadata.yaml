@@ -1,5 +1,8 @@
 _repo: The-History-of-England-from-the-Accession-of-James-II---Volume-5_2614
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Macaulay, Thomas Babington Macaulay, Baron
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/443
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Babington_Macaulay,_1st_Baron_Macaulay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2614#The-History-of-England-from-the-Accession-of-James-II---Volume-5
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2008-06-26'
 gutenberg_type: Text
